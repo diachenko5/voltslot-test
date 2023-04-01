@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <NumberOfTestWorkers>2</NumberOfTestWorkers>
+    
+  </NUnit>
+  <TestRunParameters>
+    <Parameter name="Url" value="https://voltslot.com/" />
+
+    <Parameter name="WaitForElementsTimeout" value="20" />
+	<Parameter name="WaitForPageTimeout" value="20" />
+	<Parameter name="Environment" value="Production" />
+	<Parameter name="TestDataPath" value="\TestFramework\src\TestFramework\Data\" />
+    <Parameter name="CustomerName" value="Voltslot" />  
+    <Parameter name="Login" value="repepeg192@djpich.com" />  
+    <Parameter name="Password" value="Repepeg192@" />  
+  </TestRunParameters>
+</RunSettings>
